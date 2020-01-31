@@ -1,0 +1,13 @@
+name = "minimalFreezingExample"
+uuid = "0232e331-de87-4d3c-b8e2-272a867fe18c"
+authors = ["dsweber"]
+version = "0.1.0"
+
+[compat]
+julia = "1.3.1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
