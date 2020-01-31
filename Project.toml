@@ -3,6 +3,10 @@ uuid = "0232e331-de87-4d3c-b8e2-272a867fe18c"
 authors = ["dsweber"]
 version = "0.1.0"
 
+[deps]
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+
 [compat]
 julia = "1.3.1"
 
